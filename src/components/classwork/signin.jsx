@@ -16,7 +16,7 @@ class SignIn extends React.Component {
   }
 
   onChange = (e) => {
-    this.setState({ [e.target.name]: e.target.value }, () => { console.log(this.state) })
+    this.setState({ [e.target.name]: e.target.value})
 
   }
   formvalid = () => {
