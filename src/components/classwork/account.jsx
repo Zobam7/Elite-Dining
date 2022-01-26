@@ -17,7 +17,7 @@ function Account() {
         <div className="topaccountleft d-md-flex justify-content-md-between d-block d-md-inline">
           <img
             className="accountleftimg img-fluid rounded-circle me-2"
-            src="images/profilepic.jpeg"
+            src="images/profilepic2.png"
             alt=""
           />
           <div className="engagements d-flex justify-content-md-between">

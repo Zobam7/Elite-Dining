@@ -37,7 +37,7 @@ class Navbarr extends React.Component {
         className="navbar-nav ml-auto my-2 my-lg-0 navbar-nav-scroll"
       >
         <li className="nav-item">
-          <NavLink className="nav-link" to="/account"><img src="images/profilepic.jpeg" alt="" className="profilepic"/>
+          <NavLink className="nav-link" to="/account"><img src="images/profilepic2.png" alt="" className="profilepic"/>
             {sessionStorage.getItem("username")}
           </NavLink>
         </li>
